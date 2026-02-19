@@ -1,3 +1,4 @@
+package SlidingWindow;
 /*
  * You are given an array of integers, arr,
 and an integer k. Your task is to find and print the maximum number in
