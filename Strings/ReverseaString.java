@@ -1,6 +1,6 @@
 package Strings;
 import java.util.Scanner;
-public class reverseaString {
+public class ReverseaString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         if(sc.hasNext()) {
